@@ -41,3 +41,4 @@ echo "customer id | maximum average transaction amount"
 awk -F"," -v OFMT='%.2f' '{(a[$2]+=$9) && (c[$2]+=1)}END{for(i in a){ if (c[i] != 0){print i,(a[i]/c[i])}}}' bank_transactions > Q3
 LC_ALL=C sort -k 2nr Q3 | head -1
 echo "------------------------------------------------"
+# C7319271 1560034.99
