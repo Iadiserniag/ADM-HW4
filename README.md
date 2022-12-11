@@ -8,7 +8,7 @@
 
 `INTRODUCTION`:
 
-The repository ADM-HW3 contains the code from Homework 4 for the course of Algorithmic Methods for Data Mining (Master of Data Science 22/23 University of La Sapienza).
+The repository ADM-HW4 contains the code from Homework 4 for the course of Algorithmic Methods for Data Mining (Master of Data Science 22/23 University of La Sapienza).
 
 `FILES CONTAINED`:
 
