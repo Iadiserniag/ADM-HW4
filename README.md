@@ -4,7 +4,7 @@
 
 `Name`: Giulia Iadisernia `Matricola`: 2065450 `Email`: iadisernia.2065450@studenti.uniroma1.it <br>
 `Name`: Anthony Ballerino `Matricola`: 2073280 `Email`: ballerino.2073280@studenti.uniroma1.it <br>
-`Name`: Stefano La Commare `Matricola`: 1919033 `Email`: lacommare.1919033@studenti.uniroma1.it <br>
+`Name`: Francesco Obiso `Matricola`: 1908398 `Email`: obiso.1908398@studenti.uniroma1.it <br>
 
 `INTRODUCTION`:
 
